@@ -13,6 +13,6 @@ public class Testclass {
 
     public static void main(String[] args) {
         Testclass tc = new Testclass();
-        tc.writeMessage("Testing stuff out on Developing branch");
+        tc.writeMessage("This ought to give a merge conflict");
     }
 }
