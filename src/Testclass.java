@@ -13,6 +13,6 @@ public class Testclass {
 
     public static void main(String[] args) {
         Testclass tc = new Testclass();
-        tc.writeMessage("This ought to give a merge conflict");
+        tc.writeMessage("This ought to give a merge conflict - master branch");
     }
 }
